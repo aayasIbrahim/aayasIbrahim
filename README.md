@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ayas Ibrahim  
 
+![Banner](https://your-image-link.com/banner.gif) <!-- Add your banner image link here -->
+
 💻 **Fullstack Developer | MERN Stack & Frontend Specialist**  
 🔹 Building scalable, modern, and secure web applications using React, Next.js, Node.js & Firebase.
 
@@ -30,6 +32,5 @@
 </p>
 
 ---
-
 
 💡 *“Clean code, scalable architecture, and continuous learning are my keys to growth.”*
