@@ -46,7 +46,7 @@
 ## 💻 Skills Progress
 <p align="left">
   <b>React</b><br>
-  ![React](https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&logo=react&logoColor=white)
+  !(https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&logo=react&logoColor=white)
   <br>
   <b>Next.js</b><br>
   ![Next.js](https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white)
