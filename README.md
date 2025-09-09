@@ -1,7 +1,9 @@
 ![masterhead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<h1 align="center">Hi 👋, I'm Ayas Ibrahim</h1>
-<h3 align="center">Fullstack Developer | MERN Stack & Frontend Specialist</h3>
+# 👋 Hi, I'm Ayas Ibrahim  
+
+💻 **Fullstack Developer | MERN Stack & Frontend Specialist**  
+🔹 Building scalable, modern, and secure web applications using React, Next.js, Node.js & Firebase.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayasIbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,7 +12,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently learning **Redux Toolkit, RTK Query & Node.js**  
+- 🌱 Currently mastering **Redux Toolkit, RTK Query & Node.js**  
 - 🔭 Experienced in **MERN stack, NextAuth, Firebase, TypeScript, TailwindCSS**  
 - 💡 Passionate about building **E-commerce platforms, SaaS apps, and real-world products**  
 - 🎯 Career Goal: **Become a world-class Frontend & Fullstack Developer**  
