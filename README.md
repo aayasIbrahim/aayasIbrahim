@@ -43,29 +43,27 @@
 </p>
 
 ---
-
 ## 💻 Skills Progress
 <p align="left">
-  <b>React</b>
+  <b>React</b><br>
+  ![React](https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&logo=react&logoColor=white)
   <br>
-  <img src="https://progress-bar.dev/90/?title=React&suffix=%25" alt="React"/>
+  <b>Next.js</b><br>
+  ![Next.js](https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white)
   <br>
-  <b>Next.js</b>
+  <b>Node.js</b><br>
+  ![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
   <br>
-  <img src="https://progress-bar.dev/85/?title=Next.js&suffix=%25" alt="Next.js"/>
+  <b>Redux Toolkit</b><br>
+  ![Redux](https://img.shields.io/badge/Redux-75%25-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   <br>
-  <b>Node.js</b>
+  <b>Firebase</b><br>
+  ![Firebase](https://img.shields.io/badge/Firebase-70%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   <br>
-  <img src="https://progress-bar.dev/80/?title=Node.js&suffix=%25" alt="Node.js"/>
-  <br>
-  <b>Redux Toolkit</b>
-  <br>
-  <img src="https://progress-bar.dev/75/?title=Redux&suffix=%25" alt="Redux"/>
-  <br>
-  <b>Firebase</b>
-  <br>
-  <img src="https://progress-bar.dev/70/?title=Firebase&suffix=%25" alt="Firebase"/>
+  <b>MongoDB</b><br>
+  ![MongoDB](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 </p>
+
 
 ---
 
