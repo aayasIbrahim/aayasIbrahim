@@ -43,39 +43,7 @@
 </p>
 
 ---
-## 💻 Skills Progress
-<p align="left">
-  <b>React</b><br>
-  !(https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&logo=react&logoColor=white)
-  <br>
-  <b>Next.js</b><br>
-  ![Next.js](https://img.shields.io/badge/Next.js-85%25-black?style=for-the-badge&logo=next.js&logoColor=white)
-  <br>
-  <b>Node.js</b><br>
-  ![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  <br>
-  <b>Redux Toolkit</b><br>
-  ![Redux](https://img.shields.io/badge/Redux-75%25-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  <br>
-  <b>Firebase</b><br>
-  ![Firebase](https://img.shields.io/badge/Firebase-70%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  <br>
-  <b>MongoDB</b><br>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-</p>
 
-
----
-
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://facebook.com/ayasibrahim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/ayasibrahim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ayasibrahim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/ayasibrahim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
-
----
 
 💡 *“Clean code, scalable architecture, and continuous learning are my keys to growth.”*
 
