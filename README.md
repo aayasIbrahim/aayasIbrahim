@@ -10,7 +10,7 @@
 - 🔭 Experienced in **MERN stack, NextAuth, Firebase, TypeScript, TailwindCSS**  
 - 💡 Passionate about building **E-commerce platforms, SaaS apps, and real-world products**  
 - 🎯 Career Goal: **Become a world-class Frontend & Fullstack Developer**  
-- 📫 Reach me at: **[yourmail@gmail.com](mailto:aayasabraham@gmail.com)**  
+- 📫 Reach me at: **[aayasabraham@gmail.com](mailto:aayasabraham@gmail.com)**  
 
 ---
 
