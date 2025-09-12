@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Ayas Ibrahim  
 
 💻 **Fullstack Developer | MERN Stack & Frontend Specialist**  
-🔹 Building scalable, modern, and secure web applications using React, Next.js, Node.js & Firebase.
+🔹 Building scalable, modern, and secure web applications using React, Next.js, Node.js & MongoDB.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayasIbrahim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 - 🌱 Currently mastering **Redux Toolkit, RTK Query & Node.js**  
-- 🔭 Experienced in **MERN stack, NextAuth, Firebase, TypeScript, TailwindCSS**  
+- 🔭 Experienced in **MERN stack, NextAuth, Firebase, TypeScript, TailwindCSS,MySQL **  
 - 💡 Passionate about building **E-commerce platforms, SaaS apps, and real-world products**  
 - 🎯 Career Goal: **Become a world-class Frontend & Fullstack Developer**  
 - 📫 Reach me at: **[aayasabraham@gmail.com](mailto:aayasabraham@gmail.com)**  
