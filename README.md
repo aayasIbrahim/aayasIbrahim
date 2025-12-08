@@ -38,8 +38,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=ayasIbrahim&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=ayasIbrahim&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 
