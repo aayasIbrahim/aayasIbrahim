@@ -12,8 +12,8 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently mastering **Redux Toolkit, RTK Query & Node.js**  
-- 🔭 Experienced in **MERN stack, NextAuth, Firebase, TypeScript, TailwindCSS,MySQL **  
+- 🌱 Currently mastering **Redux Toolkit, RTK Query & Express**  
+- 🔭 Experienced in **MERN stack,TypeScript, Next JS,Firebase, TailwindCSS,MySQL **  
 - 💡 Passionate about building **E-commerce platforms, SaaS apps, and real-world products**  
 - 🎯 Career Goal: **Become a world-class Frontend & Fullstack Developer**  
 - 📫 Reach me at: **[aayasabraham@gmail.com](mailto:aayasabraham@gmail.com)**  
