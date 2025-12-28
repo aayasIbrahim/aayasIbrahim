@@ -36,11 +36,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180px" alt="Languages Card" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aayasIbrahim&theme=radical&hide_border=true" width="49%" alt="Streak Card" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=radical&no-bg=true&margin-w=15" width="49%" alt="Trophies Card" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayasIbrahim&theme=radical&area=true&hide_border=true" width="100%" alt="Activity Graph" />
