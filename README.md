@@ -26,13 +26,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# <p align="center">✨ Welcome to my GitHub Profile ✨</p>
-
-<span align="center">
-  <img src="https://raw.githubusercontent.com/aayasIbrahim/aayasIbrahim/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</span>
-
----
 
 ## 📊 My GitHub Metrics
 
@@ -46,6 +39,12 @@
 <span align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </span>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
