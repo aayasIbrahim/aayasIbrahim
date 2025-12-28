@@ -32,18 +32,7 @@
 <span align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My+GitHub+Journey" alt="Stats" height="190px" />
 </span>
-<span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="190px" />
-</span>
 
-<span align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</span>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=tokyonight&hide_border=true" />
-</div>
 
 
 ---
