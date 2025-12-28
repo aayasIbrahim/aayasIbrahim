@@ -33,7 +33,46 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+# <p align="center">✨ Welcome to my GitHub Profile ✨</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aayasIbrahim/aayasIbrahim/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 📊 My GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My+GitHub+Journey" alt="Stats" height="190px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="190px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,git,vscode,figma" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayasIbrahim&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 💡 *“Clean code, scalable architecture, and continuous learning are my keys to growth.”*
 
