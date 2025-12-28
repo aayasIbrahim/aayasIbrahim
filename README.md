@@ -70,9 +70,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
-<p align="center">
+<span align="center">
   <img src="https://komarev.com/ghpvc/?username=aayasIbrahim&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+</span>
 
 💡 *“Clean code, scalable architecture, and continuous learning are my keys to growth.”*
 
