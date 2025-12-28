@@ -39,10 +39,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=github_dark&hide_border=true" alt="Ayas's GitHub Stats" />
-[  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-](https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=github_dark&hide_border=true
-)</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ayas's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="192px" />
+</p>
 
 
 
