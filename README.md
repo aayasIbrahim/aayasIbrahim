@@ -29,19 +29,24 @@
 ---
 
 ### 📊 GitHub Metrics & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=radical&no-bg=true&margin-w=15" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayasIbrahim&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=radical&no-bg=false&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayasIbrahim&theme=radical&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>>
 
 ---
 
