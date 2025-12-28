@@ -27,11 +27,23 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 📊 My GitHub Metrics
+<h2 align="center">📊 My GitHub Metrics</h2>
 
-<span align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=My+GitHub+Journey" alt="Stats" height="190px" />
-</span>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ayas's Stats" height="180px" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayasIbrahim&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+
 
 
 
