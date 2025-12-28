@@ -40,8 +40,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=github_dark&hide_border=true" alt="Ayas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+[  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+](https://github-readme-stats.vercel.app/api/top-langs/?username=aayasIbrahim&layout=compact&theme=github_dark&hide_border=true
+)</p>
 
 
 
