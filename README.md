@@ -27,6 +27,11 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-frame=true&column=4" />
+</p>
+
 
 ### 📊 GitHub Metrics & Activity
 
