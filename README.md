@@ -26,13 +26,18 @@
   </a>
 </p>
 
----
-### 🏆 My GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="aayasIbrahim GitHub Trophies" />
+<div align="center">
+  
+  <a href="https://github.com/aayasIbrahim">
+    <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
   </a>
-</p>
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+
+</div>
 
 
 ### 📊 GitHub Metrics & Activity
