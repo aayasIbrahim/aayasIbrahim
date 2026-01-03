@@ -27,11 +27,11 @@
 </p>
 
 ---
+### 🏆 My GitHub Trophies
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="aayasIbrahim GitHub Trophies" />
+  </a>
 </p>
 
 
