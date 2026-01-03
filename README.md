@@ -26,18 +26,10 @@
   </a>
 </p>
 
-<div align="center">
-  
-  <a href="https://github.com/aayasIbrahim">
-    <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies" />
-  </a>
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aayasIbrahim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayasIbrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayasIbrahim&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
 
 
 ### 📊 GitHub Metrics & Activity
